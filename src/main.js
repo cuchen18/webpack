@@ -1,4 +1,5 @@
 // import '../public/index.html'
+import App from './app.vue'
 import './style/index.css'
 import './style/index.less'
 import './assets/fonts/iconfont.css'
